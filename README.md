@@ -13,7 +13,7 @@ Las "llaves" de encriptación que utilizaremos son las siguientes:
 + La letra "o" es convertida para "ober" 
 + La letra "u" es convertida para "ufat"
 
-Requisitos:
+# Requisitos:
 
 Debe funcionar solo con letras minúsculas
 No deben ser utilizados letras con acentos ni caracteres especiales
